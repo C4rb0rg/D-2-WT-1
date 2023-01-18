@@ -1,0 +1,28 @@
+
+     p { background-color: rgba(47, 6, 250, 0.1);}
+
+
+div {
+    font-family: 'roboto', sans-serif;
+    font-size: 630 px;
+    color: rgb(20, 53, 113);
+    background:url("yoru 4 website.jpg");
+    background-size:cover;
+    letter-spacing: 2px;
+    border: 5px solid #330033;
+    border-radius: 10px;
+    }
+
+    div p {
+        margin: 50px;
+    }
+    
+
+   
+        
+
+     
+
+
+
+    
